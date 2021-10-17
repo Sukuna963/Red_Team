@@ -42,3 +42,4 @@
 * [Jelle Vergeer](https://jellevergeer.com/)
   ### Tools
 * [Ghidra](https://ghidra-sre.org/)
+* [Frida](https://frida.re/)
