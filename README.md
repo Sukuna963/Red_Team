@@ -14,6 +14,7 @@
 
 *Attack*
 * [Viper](https://github.com/FunnyWolf/Viper)
+* [exploit-db](https://www.exploit-db.com/)
 
 ## Operation System
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
