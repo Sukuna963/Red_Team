@@ -8,7 +8,6 @@
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
 * [Global Information Assurance Certification Paper](https://www.giac.org/paper/gpen/8849/preventing-living-land-attacks/140526)
 * [CyberWorkx](https://cyberworkx.in/)
-* 
 
 ## Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
@@ -17,6 +16,7 @@
 * [weggli](https://github.com/googleprojectzero/weggli)
 * [bsod-kernel-fuzzing](https://github.com/0xf4b1/bsod-kernel-fuzzing)
 * [ebpf-fuzzer](https://github.com/snorez/ebpf-fuzzer)
+* [HypoFuzz](https://hypofuzz.com/)
 
 ## Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
