@@ -3,7 +3,11 @@
 ## Courses
 * [Fuzzing Labs](https://academy.fuzzinglabs.com/)
 * [Backtrack Academy](https://backtrackacademy.com/)
-* 
+* [CISA Training](https://www.cisa.gov/cisa-training)
+* [The XSS Rat](https://thexssrat.podia.com/)
+* [ost2](https://p.ost2.fyi/)
+* [Mente Binaria](https://www.mentebinaria.com.br/treinamentos/)
+* [Desec Security](https://desecsecurity.com/academy/login)
 
 ## Tools
 *OSINT*
