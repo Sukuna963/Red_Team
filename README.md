@@ -7,9 +7,13 @@
 * [PT SWARM](https://swarm.ptsecurity.com/)
 
 ## Tools
+*Recon*
 * [netlas](https://netlas.io/)
+* [natlas](https://natlas.io/)
+* [censys](https://censys.io/)
+
+*Attack*
 * [Viper](https://github.com/FunnyWolf/Viper)
-* 
 
 ## Operation System
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
@@ -17,7 +21,6 @@
 * [CyberWorkx](https://cyberworkx.in/)
 * [FORREST ORR](https://www.forrest-orr.net/)
 * [0idea.dev](https://0idea.dev/)
-* 
 
 ## Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
