@@ -8,6 +8,7 @@
 * [ost2](https://p.ost2.fyi/)
 * [Mente Binaria](https://www.mentebinaria.com.br/treinamentos/)
 * [Desec Security](https://desecsecurity.com/academy/login)
+* [metasploit-unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 
 ## Tools
 *OSINT*
@@ -25,7 +26,7 @@
 * [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
 * [PT SWARM](https://swarm.ptsecurity.com/)
 
-## Fuzzing
+# Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
 * [Gamozo Labs Blogs](https://gamozolabs.github.io/)
   * ### Tools
@@ -34,5 +35,5 @@
 * [ebpf-fuzzer](https://github.com/snorez/ebpf-fuzzer)
 * [HypoFuzz](https://hypofuzz.com/)
 
-## Reverse engineering
+# Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
