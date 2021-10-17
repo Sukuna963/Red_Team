@@ -28,6 +28,7 @@
 * [Phrack](http://phrack.org/)
 * [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
 * [PT SWARM](https://swarm.ptsecurity.com/)
+* [Hacking Articles](https://www.hackingarticles.in/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
