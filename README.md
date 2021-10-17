@@ -12,6 +12,8 @@
 * [exploit.education](http://exploit.education/)
 * [securib](https://securib.ee/)
 * [hackers-arise](https://www.hackers-arise.com/)
+* [Payatu](https://payatu.com/blog/tag/iot)
+* [Azeria-Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ## Tools
 *OSINT*
@@ -29,6 +31,7 @@
 * [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
 * [PT SWARM](https://swarm.ptsecurity.com/)
 * [Hacking Articles](https://www.hackingarticles.in/)
+* [Xakep](https://xakep.ru/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
