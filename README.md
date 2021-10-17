@@ -9,6 +9,9 @@
 * [Mente Binaria](https://www.mentebinaria.com.br/treinamentos/)
 * [Desec Security](https://desecsecurity.com/academy/login)
 * [metasploit-unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+* [exploit.education](http://exploit.education/)
+* [securib](https://securib.ee/)
+* [hackers-arise](https://www.hackers-arise.com/)
 
 ## Tools
 *OSINT*
