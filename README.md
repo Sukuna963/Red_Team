@@ -1,10 +1,9 @@
 # Red Team
 
-## Learning
+## Courses
 * [Fuzzing Labs](https://academy.fuzzinglabs.com/)
-* [Phrack](http://phrack.org/)
-* [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
-* [PT SWARM](https://swarm.ptsecurity.com/)
+* [Backtrack Academy](https://backtrackacademy.com/)
+* 
 
 ## Tools
 *OSINT*
@@ -17,12 +16,10 @@
 * [Viper](https://github.com/FunnyWolf/Viper)
 * [exploit-db](https://www.exploit-db.com/)
 
-## Operation System
-* [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
-* [Global Information Assurance Certification Paper](https://www.giac.org/paper/gpen/8849/preventing-living-land-attacks/140526)
-* [CyberWorkx](https://cyberworkx.in/)
-* [FORREST ORR](https://www.forrest-orr.net/)
-* [0idea.dev](https://0idea.dev/)
+## Learning
+* [Phrack](http://phrack.org/)
+* [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
+* [PT SWARM](https://swarm.ptsecurity.com/)
 
 ## Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
