@@ -3,6 +3,7 @@
 ## Learning
 * [Fuzzing Labs](https://academy.fuzzinglabs.com/)
 * [Phrack](http://phrack.org/)
+* [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
 
 ## Operation System
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
