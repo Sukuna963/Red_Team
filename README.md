@@ -7,10 +7,11 @@
 * [PT SWARM](https://swarm.ptsecurity.com/)
 
 ## Tools
-*Recon*
+*OSINT*
 * [netlas](https://netlas.io/)
 * [natlas](https://natlas.io/)
 * [censys](https://censys.io/)
+* [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
 
 *Attack*
 * [Viper](https://github.com/FunnyWolf/Viper)
