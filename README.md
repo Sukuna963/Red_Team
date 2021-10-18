@@ -32,6 +32,8 @@
 * [PT SWARM](https://swarm.ptsecurity.com/)
 * [Hacking Articles](https://www.hackingarticles.in/)
 * [Xakep](https://xakep.ru/)
+* [CyberArk](https://labs.cyberark.com/)
+* [wonderhowto](https://www.wonderhowto.com/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
