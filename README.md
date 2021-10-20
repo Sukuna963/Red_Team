@@ -35,6 +35,7 @@
 * [CyberArk](https://labs.cyberark.com/)
 * [wonderhowto](https://www.wonderhowto.com/)
 * [ReconShell](https://reconshell.com/)
+* [Infosec Write-Ups](https://infosecwriteups.com/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
