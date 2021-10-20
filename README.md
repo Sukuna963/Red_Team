@@ -36,6 +36,7 @@
 * [wonderhowto](https://www.wonderhowto.com/)
 * [ReconShell](https://reconshell.com/)
 * [Infosec Write-Ups](https://infosecwriteups.com/)
+* [JShelter](https://jshelter.org/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
