@@ -15,17 +15,6 @@
 * [Payatu](https://payatu.com/blog/tag/iot)
 * [Azeria-Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
-## Tools
-*OSINT*
-  * [netlas](https://netlas.io/)
-  * [natlas](https://natlas.io/)
-  * [censys](https://censys.io/)
-  * [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
-
-*Attack*
-  * [Viper](https://github.com/FunnyWolf/Viper)
-  * [exploit-db](https://www.exploit-db.com/)
-
 ## Learning
 * [Phrack](http://phrack.org/)
 * [ProxyVulns](https://github.com/hosch3n/ProxyVulns)
@@ -38,9 +27,19 @@
 * [Infosec Write-Ups](https://infosecwriteups.com/)
 * [JShelter](https://jshelter.org/)
 
+## Tools
+  * [netlas](https://netlas.io/)
+  * [natlas](https://natlas.io/)
+  * [censys](https://censys.io/)
+  * [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+  * [Viper](https://github.com/FunnyWolf/Viper)
+  * [exploit-db](https://www.exploit-db.com/)
+  * [ColbaltStrike](https://www.cobaltstrike.com/)
+
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
 * [Gamozo Labs Blogs](https://gamozolabs.github.io/)
+
   ### Tools
   * [weggli](https://github.com/googleprojectzero/weggli)
   * [bsod-kernel-fuzzing](https://github.com/0xf4b1/bsod-kernel-fuzzing)
@@ -49,6 +48,7 @@
 
 # Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
+
   ### Tools
   * [Ghidra](https://ghidra-sre.org/)
   * [Frida](https://frida.re/)
