@@ -27,14 +27,14 @@
 * [Infosec Write-Ups](https://infosecwriteups.com/)
 * [JShelter](https://jshelter.org/)
 
-## Tools
-  * [netlas](https://netlas.io/)
-  * [natlas](https://natlas.io/)
-  * [censys](https://censys.io/)
-  * [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
-  * [Viper](https://github.com/FunnyWolf/Viper)
-  * [exploit-db](https://www.exploit-db.com/)
-  * [ColbaltStrike](https://www.cobaltstrike.com/)
+   ### Tools
+     * [netlas](https://netlas.io/)
+     * [natlas](https://natlas.io/)
+     * [censys](https://censys.io/)
+     * [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+     * [Viper](https://github.com/FunnyWolf/Viper)
+     * [exploit-db](https://www.exploit-db.com/)
+     * [ColbaltStrike](https://www.cobaltstrike.com/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
