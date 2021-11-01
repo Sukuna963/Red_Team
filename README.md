@@ -28,6 +28,7 @@
 * [JShelter](https://jshelter.org/)
 * [Pentest Lab Blog](https://pentestlab.blog/)
 * [MalApi](https://malapi.io/)
+* [Offensive WMI](https://0xinfection.github.io/)
 
    ### Tools
      * [netlas](https://netlas.io/)
