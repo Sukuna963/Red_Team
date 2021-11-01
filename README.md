@@ -49,6 +49,7 @@
 
 # Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
+* [maxkersten](https://maxkersten.nl/)
 
   ### Tools
   * [Ghidra](https://ghidra-sre.org/)
