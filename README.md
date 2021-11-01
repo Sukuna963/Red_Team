@@ -26,6 +26,7 @@
 * [ReconShell](https://reconshell.com/)
 * [Infosec Write-Ups](https://infosecwriteups.com/)
 * [JShelter](https://jshelter.org/)
+* [Pentest Lab Blog](https://pentestlab.blog/)
 
    ### Tools
      * [netlas](https://netlas.io/)
