@@ -27,6 +27,7 @@
 * [Infosec Write-Ups](https://infosecwriteups.com/)
 * [JShelter](https://jshelter.org/)
 * [Pentest Lab Blog](https://pentestlab.blog/)
+* [MalApi](https://malapi.io/)
 
    ### Tools
      * [netlas](https://netlas.io/)
