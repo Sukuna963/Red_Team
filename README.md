@@ -29,6 +29,7 @@
 * [Pentest Lab Blog](https://pentestlab.blog/)
 * [MalApi](https://malapi.io/)
 * [Offensive WMI](https://0xinfection.github.io/)
+* [Pentestmag](https://pentestmag.com/blog/)
 
    ### Tools
      * [netlas](https://netlas.io/)
