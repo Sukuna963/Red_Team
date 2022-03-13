@@ -70,3 +70,4 @@
   ### Tools
   * [Ghidra](https://ghidra-sre.org/)
   * [Frida](https://frida.re/)
+  * [Rizin](https://rizin.re/)
