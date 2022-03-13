@@ -51,6 +51,7 @@
   * [ebpf-fuzzer](https://github.com/snorez/ebpf-fuzzer)
   * [HypoFuzz](https://hypofuzz.com/)
   * [clusterfuzzlite](https://google.github.io/clusterfuzzlite/)
+  * [Fragscapy](https://github.com/AMOSSYS/Fragscapy)
 
 # Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
