@@ -64,6 +64,7 @@
 # Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
 * [maxkersten](https://maxkersten.nl/)
+* [rehints](http://rehints.com/)
 
   ### Tools
   * [Ghidra](https://ghidra-sre.org/)
