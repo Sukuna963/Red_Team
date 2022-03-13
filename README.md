@@ -15,6 +15,7 @@
 * [Azeria-Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Hakin9](https://hakin9.org/online-courses-2/)
 * [Pentestmag](https://pentestmag.com/courses/)
+* [Cyber5w](https://academy.cyber5w.com/collections)
 
 ## Learning
 * [Phrack](http://phrack.org/)
