@@ -6,7 +6,6 @@
 * [CISA Training](https://www.cisa.gov/cisa-training)
 * [The XSS Rat](https://thexssrat.podia.com/)
 * [ost2](https://p.ost2.fyi/)
-* [Mente Binaria](https://www.mentebinaria.com.br/treinamentos/)
 * [Desec Security](https://desecsecurity.com/academy/login)
 * [metasploit-unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 * [exploit.education](http://exploit.education/)
@@ -30,6 +29,7 @@
 * [MalApi](https://malapi.io/)
 * [Offensive WMI](https://0xinfection.github.io/)
 * [Pentestmag](https://pentestmag.com/blog/)
+* [Trojan Source](https://trojansource.codes/)
 
    ### Tools
      * [netlas](https://netlas.io/)
@@ -50,6 +50,7 @@
   * [bsod-kernel-fuzzing](https://github.com/0xf4b1/bsod-kernel-fuzzing)
   * [ebpf-fuzzer](https://github.com/snorez/ebpf-fuzzer)
   * [HypoFuzz](https://hypofuzz.com/)
+  * [clusterfuzzlite](https://google.github.io/clusterfuzzlite/)
 
 # Reverse engineering
 * [Jelle Vergeer](https://jellevergeer.com/)
