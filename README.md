@@ -13,6 +13,8 @@
 * [hackers-arise](https://www.hackers-arise.com/)
 * [Payatu](https://payatu.com/blog/tag/iot)
 * [Azeria-Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [Hakin9](https://hakin9.org/online-courses-2/)
+* [Pentestmag](https://pentestmag.com/courses/)
 
 ## Learning
 * [Phrack](http://phrack.org/)
