@@ -33,6 +33,7 @@
 * [Pentestmag](https://pentestmag.com/blog/)
 * [Trojan Source](https://trojansource.codes/)
 * [COMSEC](https://comsec.ethz.ch/)
+* [NCC Group](https://research.nccgroup.com/)
 
    ### Tools
      * [netlas](https://netlas.io/)
