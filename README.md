@@ -41,6 +41,7 @@
      * [exploit-db](https://www.exploit-db.com/)
      * [ColbaltStrike](https://www.cobaltstrike.com/)
      * [API's For OSINT](https://github.com/cipher387/API-s-for-OSINT)
+     * [HE](https://www.he.net/)
 
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
