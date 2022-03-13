@@ -30,6 +30,7 @@
 * [Offensive WMI](https://0xinfection.github.io/)
 * [Pentestmag](https://pentestmag.com/blog/)
 * [Trojan Source](https://trojansource.codes/)
+* [COMSEC](https://comsec.ethz.ch/)
 
    ### Tools
      * [netlas](https://netlas.io/)
