@@ -35,6 +35,7 @@
 * [COMSEC](https://comsec.ethz.ch/)
 * [NCC Group](https://research.nccgroup.com/)
 * [Netspi](https://www.netspi.com/webinars/)
+* [connormcgarr](https://connormcgarr.github.io/)
 
    ### Tools
      * [netlas](https://netlas.io/)
