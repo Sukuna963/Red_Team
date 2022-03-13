@@ -45,6 +45,7 @@
 # Fuzzing
 * [Project Zero Google](https://googleprojectzero.blogspot.com/)
 * [Gamozo Labs Blogs](https://gamozolabs.github.io/)
+* [Epi052](https://epi052.gitlab.io/notes-to-self/)
 
   ### Tools
   * [weggli](https://github.com/googleprojectzero/weggli)
