@@ -34,6 +34,7 @@
 * [Trojan Source](https://trojansource.codes/)
 * [COMSEC](https://comsec.ethz.ch/)
 * [NCC Group](https://research.nccgroup.com/)
+* [Netspi](https://www.netspi.com/webinars/)
 
    ### Tools
      * [netlas](https://netlas.io/)
