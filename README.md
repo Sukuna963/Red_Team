@@ -37,6 +37,7 @@
 * [NCC Group](https://research.nccgroup.com/)
 * [Netspi](https://www.netspi.com/webinars/)
 * [connormcgarr](https://connormcgarr.github.io/)
+* [Minerva Labs](https://blog.minerva-labs.com/)
 
    ### Tools
      * [netlas](https://netlas.io/)
