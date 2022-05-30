@@ -38,6 +38,7 @@
 * [Netspi](https://www.netspi.com/webinars/)
 * [connormcgarr](https://connormcgarr.github.io/)
 * [Minerva Labs](https://blog.minerva-labs.com/)
+* [pberba blog](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
 
    ### Tools
      * [netlas](https://netlas.io/)
